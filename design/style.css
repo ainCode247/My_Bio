@@ -1,8 +1,6 @@
-/* navbar */
-.nav-head{
+header{
     display: flex;
-    /* justify-content:space-between; */
-}
-.i{
-    color: chocolate;
+    justify-content: center;
+    background-image: url(/assets/Hero-bg.png);
+    
 }
