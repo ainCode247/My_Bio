@@ -1,0 +1,8 @@
+/* navbar */
+.nav-head{
+    display: flex;
+    /* justify-content:space-between; */
+}
+.i{
+    color: chocolate;
+}
